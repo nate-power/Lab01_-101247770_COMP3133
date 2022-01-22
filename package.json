@@ -1,0 +1,24 @@
+{
+  "name": "lab01_101247770_comp3133",
+  "version": "1.0.0",
+  "description": "Lab Exercise 1 for Full Stack Dev 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nate-power/Lab01_-101247770_COMP3133.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nate-power/Lab01_-101247770_COMP3133/issues"
+  },
+  "homepage": "https://github.com/nate-power/Lab01_-101247770_COMP3133#readme",
+  "dependencies": {
+    "csv-parser": "^3.0.0"
+  }
+}
